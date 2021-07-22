@@ -1,3 +1,3 @@
 #### To-do List
 
-- [ ] Stringify generated OPML files
+- [ ] Beautify generated OPML files
