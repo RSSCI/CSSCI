@@ -1,6 +1,6 @@
 import json
 
-with open("json/cssci-partial.json", "r", encoding="utf-8") as f:
+with open("json/cssci-plus-extend-partial.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 xmlUrlBase = "https://nxgp.cnki.net/knavi/rss/"
