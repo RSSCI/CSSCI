@@ -4,7 +4,7 @@ with open("json/cssci-plus-extend-partial.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 xmlUrlBase = "https://nxgp.cnki.net/knavi/rss/"
-htmlUrlBase = "https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm="
+htmlUrlBase = "https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&amp;pykm="
 
 for subject in data:
     with open("opml/" + subject + ".opml", "w", encoding="utf-8") as f:
