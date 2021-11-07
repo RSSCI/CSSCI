@@ -1,3 +1,3 @@
 #### To-do List
 
-- [ ] Beautify generated OPML files
+- [ x ] Beautify generated OPML files, the script is ugly though
