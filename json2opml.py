@@ -1,10 +1,12 @@
 import json
 
-with open("json/cssci-plus-extend-partial.json", "r", encoding="utf-8") as f:
+with open("json/cssci-plus-extend.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
-xmlUrlBase = "https://nxgp.cnki.net/knavi/rss/"
-htmlUrlBase = "https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&amp;pykm="
+# https://navi.cnki.net/knavi/rss/GLSJ
+xmlUrlBase = "https://navi.cnki.net/knavi/rss/"
+# https://navi.cnki.net/knavi/journals/GLSJ/detail
+htmlUrlBase = "https://navi.cnki.net/knavi/journals/"
 
 subjectDict = {
     "综合性高校学报": "zonghe_gaoxiao",
@@ -38,13 +40,12 @@ for subject in data:
         f.write(" " * 4)
         f.write("<outline text=\"" + subject + "\" title=\"" + subject + "\">")
 
-        for journal, pykm in data[subject].items():
-            tail = pykm
-            xmlUrl = xmlUrlBase + tail
-            htmlUrl = htmlUrlBase + tail
+        for name, code in data[subject].items():
+            xmlUrl = xmlUrlBase + code
+            htmlUrl = htmlUrlBase + code + "/detail"
             f.write("\n")
             f.write(" " * 6)
-            f.write("<outline text=\"" + journal + "\" title=\"" + journal + "\" type=\"rss\" xmlUrl=\"" + xmlUrl + "\" htmlUrl=\"" + htmlUrl + "\"/>")
+            f.write("<outline text=\"" + name + "\" title=\"" + name + "\" type=\"rss\" xmlUrl=\"" + xmlUrl + "\" htmlUrl=\"" + htmlUrl + "\"/>")
 
         f.write("\n")
         f.write(" " * 4)
