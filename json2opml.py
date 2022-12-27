@@ -4,7 +4,8 @@ with open("json/cssci-plus-extend.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # https://navi.cnki.net/knavi/rss/GLSJ
-xmlUrlBase = "https://navi.cnki.net/knavi/rss/"
+# xmlUrlBase = "https://navi.cnki.net/knavi/rss/"
+xmlUrlBase = "https://rsshub.shuaizheng.net/cnki/journals/"
 # https://navi.cnki.net/knavi/journals/GLSJ/detail
 htmlUrlBase = "https://navi.cnki.net/knavi/journals/"
 
