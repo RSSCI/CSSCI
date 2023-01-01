@@ -1,0 +1,51 @@
+{
+    "ZGST": {
+        "url": "https://navi.cnki.net/knavi/journals/ZGST/detail",
+        "title": "\u4e2d\u56fd\u53f2\u7814\u7a76\u52a8\u6001",
+        "type": [],
+        "database": [
+            "\u5317\u5927\u6838\u5fc3",
+            "CSSCI",
+            "AMI\u6838\u5fc3"
+        ],
+        "\u4e3b\u529e\u5355\u4f4d": "\u4e2d\u56fd\u793e\u4f1a\u79d1\u5b66\u9662\u53e4\u4ee3\u53f2\u7814\u7a76\u6240",
+        "\u51fa\u7248\u5468\u671f": "\u53cc\u6708",
+        "ISSN": "1002-7971",
+        "CN": "11-1040/K",
+        "\u51fa\u7248\u5730": "\u5317\u4eac\u5e02",
+        "\u8bed\u79cd": "\u4e2d\u6587;",
+        "\u5f00\u672c": "16\u5f00",
+        "\u90ae\u53d1\u4ee3\u53f7": "2-533",
+        "\u521b\u520a\u65f6\u95f4": "1979",
+        "\u4e13\u8f91\u540d\u79f0": "\u54f2\u5b66\u4e0e\u4eba\u6587\u79d1\u5b66",
+        "\u4e13\u9898\u540d\u79f0": "\u4e2d\u56fd\u901a\u53f2",
+        "\u51fa\u7248\u6587\u732e\u91cf": "3118\u7bc7",
+        "\u603b\u4e0b\u8f7d\u6b21\u6570": "1086022\u6b21",
+        "\u603b\u88ab\u5f15\u6b21\u6570": "6829\u6b21",
+        "(2022)\u590d\u5408\u5f71\u54cd\u56e0\u5b50": "0.188",
+        "(2022)\u7efc\u5408\u5f71\u54cd\u56e0\u5b50": "0.133"
+    },
+    "GUDW": {
+        "url": "https://navi.cnki.net/knavi/journals/GUDW/detail",
+        "title": "\u53e4\u4ee3\u6587\u660e",
+        "type": [],
+        "database": [
+            "CSSCI",
+            "AMI\u6269\u5c55"
+        ],
+        "\u4e3b\u529e\u5355\u4f4d": "\u957f\u6625\u4e1c\u5317\u5e08\u8303\u5927\u5b66\u51fa\u7248\u793e\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "\u51fa\u7248\u5468\u671f": "\u5b63\u520a",
+        "ISSN": "1004-9371",
+        "CN": "22-1213/K",
+        "\u51fa\u7248\u5730": "\u5409\u6797\u7701\u957f\u6625\u5e02",
+        "\u8bed\u79cd": "\u4e2d\u6587;",
+        "\u5f00\u672c": "\u592716\u5f00",
+        "\u90ae\u53d1\u4ee3\u53f7": "12-542",
+        "\u521b\u520a\u65f6\u95f4": "2007",
+        "\u4e13\u8f91\u540d\u79f0": "\u54f2\u5b66\u4e0e\u4eba\u6587\u79d1\u5b66",
+        "\u4e13\u9898\u540d\u79f0": "\u6587\u53f2\u54f2\u7efc\u5408",
+        "\u51fa\u7248\u6587\u732e\u91cf": "1006\u7bc7",
+        "\u603b\u4e0b\u8f7d\u6b21\u6570": "384922\u6b21",
+        "\u603b\u88ab\u5f15\u6b21\u6570": "4162\u6b21"
+    }
+}
