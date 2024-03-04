@@ -5,26 +5,26 @@
   </head>
   <body>
     <outline text="图书馆、情报与文献学" title="图书馆、情报与文献学">
-      <outline text="大学图书馆学报" title="大学图书馆学报" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/DXTS" htmlUrl="https://navi.cnki.net/knavi/journals/DXTS/detail"/>
-      <outline text="档案学通讯" title="档案学通讯" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/DAXT" htmlUrl="https://navi.cnki.net/knavi/journals/DAXT/detail"/>
-      <outline text="档案学研究" title="档案学研究" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/DAXY" htmlUrl="https://navi.cnki.net/knavi/journals/DAXY/detail"/>
-      <outline text="国家图书馆学刊" title="国家图书馆学刊" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/BJJG" htmlUrl="https://navi.cnki.net/knavi/journals/BJJG/detail"/>
-      <outline text="情报科学" title="情报科学" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/QBKX" htmlUrl="https://navi.cnki.net/knavi/journals/QBKX/detail"/>
-      <outline text="情报理论与实践" title="情报理论与实践" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/QBLL" htmlUrl="https://navi.cnki.net/knavi/journals/QBLL/detail"/>
-      <outline text="情报学报" title="情报学报" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/QBXB" htmlUrl="https://navi.cnki.net/knavi/journals/QBXB/detail"/>
-      <outline text="情报杂志" title="情报杂志" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/QBZZ" htmlUrl="https://navi.cnki.net/knavi/journals/QBZZ/detail"/>
-      <outline text="情报资料工作" title="情报资料工作" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/QBZL" htmlUrl="https://navi.cnki.net/knavi/journals/QBZL/detail"/>
-      <outline text="数据分析与知识发现" title="数据分析与知识发现" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/XDTQ" htmlUrl="https://navi.cnki.net/knavi/journals/XDTQ/detail"/>
-      <outline text="图书馆建设" title="图书馆建设" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/TSGJ" htmlUrl="https://navi.cnki.net/knavi/journals/TSGJ/detail"/>
-      <outline text="图书馆论坛" title="图书馆论坛" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/TSGL" htmlUrl="https://navi.cnki.net/knavi/journals/TSGL/detail"/>
-      <outline text="图书馆学研究" title="图书馆学研究" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/TSSS" htmlUrl="https://navi.cnki.net/knavi/journals/TSSS/detail"/>
-      <outline text="图书馆杂志" title="图书馆杂志" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/TNGZ" htmlUrl="https://navi.cnki.net/knavi/journals/TNGZ/detail"/>
-      <outline text="图书情报工作" title="图书情报工作" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/TSQB" htmlUrl="https://navi.cnki.net/knavi/journals/TSQB/detail"/>
-      <outline text="图书情报知识" title="图书情报知识" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/TSQC" htmlUrl="https://navi.cnki.net/knavi/journals/TSQC/detail"/>
-      <outline text="图书与情报" title="图书与情报" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/BOOK" htmlUrl="https://navi.cnki.net/knavi/journals/BOOK/detail"/>
-      <outline text="中国图书馆学报" title="中国图书馆学报" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/ZGTS" htmlUrl="https://navi.cnki.net/knavi/journals/ZGTS/detail"/>
-      <outline text="图书馆" title="图书馆" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/TSGT" htmlUrl="https://navi.cnki.net/knavi/journals/TSGT/detail"/>
-      <outline text="图书馆工作与研究" title="图书馆工作与研究" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/TSGG" htmlUrl="https://navi.cnki.net/knavi/journals/TSGG/detail"/>
+      <outline text="大学图书馆学报" title="大学图书馆学报" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/DXTS" htmlUrl="https://navi.cnki.net/knavi/journals/DXTS/detail"/>
+      <outline text="档案学通讯" title="档案学通讯" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/DAXT" htmlUrl="https://navi.cnki.net/knavi/journals/DAXT/detail"/>
+      <outline text="档案学研究" title="档案学研究" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/DAXY" htmlUrl="https://navi.cnki.net/knavi/journals/DAXY/detail"/>
+      <outline text="国家图书馆学刊" title="国家图书馆学刊" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/BJJG" htmlUrl="https://navi.cnki.net/knavi/journals/BJJG/detail"/>
+      <outline text="情报科学" title="情报科学" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/QBKX" htmlUrl="https://navi.cnki.net/knavi/journals/QBKX/detail"/>
+      <outline text="情报理论与实践" title="情报理论与实践" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/QBLL" htmlUrl="https://navi.cnki.net/knavi/journals/QBLL/detail"/>
+      <outline text="情报学报" title="情报学报" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/QBXB" htmlUrl="https://navi.cnki.net/knavi/journals/QBXB/detail"/>
+      <outline text="情报杂志" title="情报杂志" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/QBZZ" htmlUrl="https://navi.cnki.net/knavi/journals/QBZZ/detail"/>
+      <outline text="情报资料工作" title="情报资料工作" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/QBZL" htmlUrl="https://navi.cnki.net/knavi/journals/QBZL/detail"/>
+      <outline text="数据分析与知识发现" title="数据分析与知识发现" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/XDTQ" htmlUrl="https://navi.cnki.net/knavi/journals/XDTQ/detail"/>
+      <outline text="图书馆建设" title="图书馆建设" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/TSGJ" htmlUrl="https://navi.cnki.net/knavi/journals/TSGJ/detail"/>
+      <outline text="图书馆论坛" title="图书馆论坛" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/TSGL" htmlUrl="https://navi.cnki.net/knavi/journals/TSGL/detail"/>
+      <outline text="图书馆学研究" title="图书馆学研究" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/TSSS" htmlUrl="https://navi.cnki.net/knavi/journals/TSSS/detail"/>
+      <outline text="图书馆杂志" title="图书馆杂志" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/TNGZ" htmlUrl="https://navi.cnki.net/knavi/journals/TNGZ/detail"/>
+      <outline text="图书情报工作" title="图书情报工作" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/TSQB" htmlUrl="https://navi.cnki.net/knavi/journals/TSQB/detail"/>
+      <outline text="图书情报知识" title="图书情报知识" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/TSQC" htmlUrl="https://navi.cnki.net/knavi/journals/TSQC/detail"/>
+      <outline text="图书与情报" title="图书与情报" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/BOOK" htmlUrl="https://navi.cnki.net/knavi/journals/BOOK/detail"/>
+      <outline text="中国图书馆学报" title="中国图书馆学报" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/ZGTS" htmlUrl="https://navi.cnki.net/knavi/journals/ZGTS/detail"/>
+      <outline text="图书馆" title="图书馆" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/TSGT" htmlUrl="https://navi.cnki.net/knavi/journals/TSGT/detail"/>
+      <outline text="图书馆工作与研究" title="图书馆工作与研究" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/TSGG" htmlUrl="https://navi.cnki.net/knavi/journals/TSGG/detail"/>
     </outline>
   </body>
 </opml>

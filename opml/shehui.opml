@@ -5,19 +5,19 @@
   </head>
   <body>
     <outline text="社会学" title="社会学">
-      <outline text="妇女研究论丛" title="妇女研究论丛" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/FNYJ" htmlUrl="https://navi.cnki.net/knavi/journals/FNYJ/detail"/>
-      <outline text="青年研究" title="青年研究" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/QNYJ" htmlUrl="https://navi.cnki.net/knavi/journals/QNYJ/detail"/>
-      <outline text="人口学刊" title="人口学刊" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/RKXK" htmlUrl="https://navi.cnki.net/knavi/journals/RKXK/detail"/>
-      <outline text="人口研究" title="人口研究" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/RKYZ" htmlUrl="https://navi.cnki.net/knavi/journals/RKYZ/detail"/>
-      <outline text="人口与发展" title="人口与发展" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/SCRK" htmlUrl="https://navi.cnki.net/knavi/journals/SCRK/detail"/>
-      <outline text="人口与经济" title="人口与经济" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/RKJJ" htmlUrl="https://navi.cnki.net/knavi/journals/RKJJ/detail"/>
-      <outline text="社会" title="社会" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/SHEH" htmlUrl="https://navi.cnki.net/knavi/journals/SHEH/detail"/>
-      <outline text="社会学评论" title="社会学评论" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/SHPL" htmlUrl="https://navi.cnki.net/knavi/journals/SHPL/detail"/>
-      <outline text="社会学研究" title="社会学研究" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/SHXJ" htmlUrl="https://navi.cnki.net/knavi/journals/SHXJ/detail"/>
-      <outline text="中国青年研究" title="中国青年研究" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/ZGQL" htmlUrl="https://navi.cnki.net/knavi/journals/ZGQL/detail"/>
-      <outline text="中国人口科学" title="中国人口科学" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/ZKRK" htmlUrl="https://navi.cnki.net/knavi/journals/ZKRK/detail"/>
-      <outline text="西北人口" title="西北人口" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/XBRK" htmlUrl="https://navi.cnki.net/knavi/journals/XBRK/detail"/>
-      <outline text="中国青年社会科学" title="中国青年社会科学" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/ZQNZ" htmlUrl="https://navi.cnki.net/knavi/journals/ZQNZ/detail"/>
+      <outline text="妇女研究论丛" title="妇女研究论丛" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/FNYJ" htmlUrl="https://navi.cnki.net/knavi/journals/FNYJ/detail"/>
+      <outline text="青年研究" title="青年研究" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/QNYJ" htmlUrl="https://navi.cnki.net/knavi/journals/QNYJ/detail"/>
+      <outline text="人口学刊" title="人口学刊" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/RKXK" htmlUrl="https://navi.cnki.net/knavi/journals/RKXK/detail"/>
+      <outline text="人口研究" title="人口研究" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/RKYZ" htmlUrl="https://navi.cnki.net/knavi/journals/RKYZ/detail"/>
+      <outline text="人口与发展" title="人口与发展" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/SCRK" htmlUrl="https://navi.cnki.net/knavi/journals/SCRK/detail"/>
+      <outline text="人口与经济" title="人口与经济" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/RKJJ" htmlUrl="https://navi.cnki.net/knavi/journals/RKJJ/detail"/>
+      <outline text="社会" title="社会" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/SHEH" htmlUrl="https://navi.cnki.net/knavi/journals/SHEH/detail"/>
+      <outline text="社会学评论" title="社会学评论" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/SHPL" htmlUrl="https://navi.cnki.net/knavi/journals/SHPL/detail"/>
+      <outline text="社会学研究" title="社会学研究" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/SHXJ" htmlUrl="https://navi.cnki.net/knavi/journals/SHXJ/detail"/>
+      <outline text="中国青年研究" title="中国青年研究" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/ZGQL" htmlUrl="https://navi.cnki.net/knavi/journals/ZGQL/detail"/>
+      <outline text="中国人口科学" title="中国人口科学" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/ZKRK" htmlUrl="https://navi.cnki.net/knavi/journals/ZKRK/detail"/>
+      <outline text="西北人口" title="西北人口" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/XBRK" htmlUrl="https://navi.cnki.net/knavi/journals/XBRK/detail"/>
+      <outline text="中国青年社会科学" title="中国青年社会科学" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/ZQNZ" htmlUrl="https://navi.cnki.net/knavi/journals/ZQNZ/detail"/>
     </outline>
   </body>
 </opml>

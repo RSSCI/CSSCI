@@ -5,21 +5,21 @@
   </head>
   <body>
     <outline text="高校社科学报" title="高校社科学报">
-      <outline text="北京工业大学学报(社会科学版)" title="北京工业大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/BGYS" htmlUrl="https://navi.cnki.net/knavi/journals/BGYS/detail"/>
-      <outline text="重庆大学学报(社会科学版)" title="重庆大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/CDSK" htmlUrl="https://navi.cnki.net/knavi/journals/CDSK/detail"/>
-      <outline text="大连理工大学学报(社会科学版)" title="大连理工大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/DLGD" htmlUrl="https://navi.cnki.net/knavi/journals/DLGD/detail"/>
-      <outline text="河海大学学报(哲学社会科学版)" title="河海大学学报(哲学社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/HHZX" htmlUrl="https://navi.cnki.net/knavi/journals/HHZX/detail"/>
-      <outline text="华南农业大学学报(社会科学版)" title="华南农业大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/HNNA" htmlUrl="https://navi.cnki.net/knavi/journals/HNNA/detail"/>
-      <outline text="华中农业大学学报(社会科学版)" title="华中农业大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/HZND" htmlUrl="https://navi.cnki.net/knavi/journals/HZND/detail"/>
-      <outline text="南京农业大学学报(社会科学版)" title="南京农业大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/NJNS" htmlUrl="https://navi.cnki.net/knavi/journals/NJNS/detail"/>
-      <outline text="西安交通大学学报(社会科学版)" title="西安交通大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/XAJD" htmlUrl="https://navi.cnki.net/knavi/journals/XAJD/detail"/>
-      <outline text="西北农林科技大学学报(社会科学版)" title="西北农林科技大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/NLXS" htmlUrl="https://navi.cnki.net/knavi/journals/NLXS/detail"/>
-      <outline text="中国地质大学学报(社会科学版)" title="中国地质大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/DDXS" htmlUrl="https://navi.cnki.net/knavi/journals/DDXS/detail"/>
-      <outline text="中国农业大学学报(社会科学版)" title="中国农业大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/NYSK" htmlUrl="https://navi.cnki.net/knavi/journals/NYSK/detail"/>
-      <outline text="北京交通大学学报(社会科学版)" title="北京交通大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/BFJD" htmlUrl="https://navi.cnki.net/knavi/journals/BFJD/detail"/>
-      <outline text="北京理工大学学报(社会科学版)" title="北京理工大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/BLDS" htmlUrl="https://navi.cnki.net/knavi/journals/BLDS/detail"/>
-      <outline text="华东理工大学学报(社会科学版)" title="华东理工大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/HDLS" htmlUrl="https://navi.cnki.net/knavi/journals/HDLS/detail"/>
-      <outline text="中国人民公安大学学报(社会科学版)" title="中国人民公安大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.net/cnki/journals/GADX" htmlUrl="https://navi.cnki.net/knavi/journals/GADX/detail"/>
+      <outline text="北京工业大学学报(社会科学版)" title="北京工业大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/BGYS" htmlUrl="https://navi.cnki.net/knavi/journals/BGYS/detail"/>
+      <outline text="重庆大学学报(社会科学版)" title="重庆大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/CDSK" htmlUrl="https://navi.cnki.net/knavi/journals/CDSK/detail"/>
+      <outline text="大连理工大学学报(社会科学版)" title="大连理工大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/DLGD" htmlUrl="https://navi.cnki.net/knavi/journals/DLGD/detail"/>
+      <outline text="河海大学学报(哲学社会科学版)" title="河海大学学报(哲学社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/HHZX" htmlUrl="https://navi.cnki.net/knavi/journals/HHZX/detail"/>
+      <outline text="华南农业大学学报(社会科学版)" title="华南农业大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/HNNA" htmlUrl="https://navi.cnki.net/knavi/journals/HNNA/detail"/>
+      <outline text="华中农业大学学报(社会科学版)" title="华中农业大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/HZND" htmlUrl="https://navi.cnki.net/knavi/journals/HZND/detail"/>
+      <outline text="南京农业大学学报(社会科学版)" title="南京农业大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/NJNS" htmlUrl="https://navi.cnki.net/knavi/journals/NJNS/detail"/>
+      <outline text="西安交通大学学报(社会科学版)" title="西安交通大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/XAJD" htmlUrl="https://navi.cnki.net/knavi/journals/XAJD/detail"/>
+      <outline text="西北农林科技大学学报(社会科学版)" title="西北农林科技大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/NLXS" htmlUrl="https://navi.cnki.net/knavi/journals/NLXS/detail"/>
+      <outline text="中国地质大学学报(社会科学版)" title="中国地质大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/DDXS" htmlUrl="https://navi.cnki.net/knavi/journals/DDXS/detail"/>
+      <outline text="中国农业大学学报(社会科学版)" title="中国农业大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/NYSK" htmlUrl="https://navi.cnki.net/knavi/journals/NYSK/detail"/>
+      <outline text="北京交通大学学报(社会科学版)" title="北京交通大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/BFJD" htmlUrl="https://navi.cnki.net/knavi/journals/BFJD/detail"/>
+      <outline text="北京理工大学学报(社会科学版)" title="北京理工大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/BLDS" htmlUrl="https://navi.cnki.net/knavi/journals/BLDS/detail"/>
+      <outline text="华东理工大学学报(社会科学版)" title="华东理工大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/HDLS" htmlUrl="https://navi.cnki.net/knavi/journals/HDLS/detail"/>
+      <outline text="中国人民公安大学学报(社会科学版)" title="中国人民公安大学学报(社会科学版)" type="rss" xmlUrl="https://rsshub.shuaizheng.org/cnki/journals/GADX" htmlUrl="https://navi.cnki.net/knavi/journals/GADX/detail"/>
     </outline>
   </body>
 </opml>
